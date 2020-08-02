@@ -6,6 +6,7 @@ uploadDir: images
 staticDir: exampleSite/static
 pagesDir: exampleSite/content
 dataDir: exampleSite
+githubAccessToken: "1234"
 models:
     post:
         type: page
